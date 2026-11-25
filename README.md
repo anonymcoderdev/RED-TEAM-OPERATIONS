@@ -5,5 +5,3 @@
 - Adversary Emulation
 
 - Attack Chain Analysis
-
-- CTF Security Assessments
